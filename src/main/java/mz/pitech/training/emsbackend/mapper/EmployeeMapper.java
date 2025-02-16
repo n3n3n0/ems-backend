@@ -1,8 +1,9 @@
 package mz.pitech.training.emsbackend.mapper;
 
+import org.springframework.stereotype.Component;
+
 import mz.pitech.training.emsbackend.dto.EmployeeDto;
 import mz.pitech.training.emsbackend.entity.Employee;
-import org.springframework.stereotype.Component;
 
 @Component
 public class EmployeeMapper {
